@@ -84,13 +84,13 @@ footer {
   a {
     color: $gray;
     &:hover {
-      color: $grayDark;
+      color: $grayDarker;
     }
   }
   small {
     float: left;
   }
-  footer ul {
+  ul {
     float: right;
     list-style: none;
     li {
